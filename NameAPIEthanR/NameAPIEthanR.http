@@ -1,0 +1,6 @@
+@NameAPIEthanR_HostAddress = http://localhost:5213
+
+GET {{NameAPIEthanR_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
